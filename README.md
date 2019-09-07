@@ -2,7 +2,7 @@
 
 Improving the resilience and affordability of existing water treatment plants is critical for the safety and financial viability of drinking water systems. This is a repository for a simulation-optimization framework written in C/C++ that generates innovative treatment strategies for water managers. By integrating optimization results with interactive visualizations, this framework represents a shift toward exploration and insight discovery in the drinking water sector.
 
-![simulation optimization overview](figures/sim-opt_overview.tif)
+![simulation optimization overview](figures/sim-opt_overview.png)
 
 ## Reference
 
