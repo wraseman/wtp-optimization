@@ -1,0 +1,15 @@
+# executables and object files
+*.exe
+*.o
+
+# output files
+out/*/config
+out/*/log
+out/*/result
+out/*/cli_args
+out/*/wtp_train
+
+# R data files and figures
+*.rds
+*.tiff
+.Rproj.user

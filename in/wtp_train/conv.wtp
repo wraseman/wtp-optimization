@@ -1,0 +1,71 @@
+Influent
+  pH      =   7.96
+  Temp    =  5.71
+  MinTemp =   5.0
+  TOC     =   4.54
+  UVA     =   0.239
+  Br      =   0.015
+  Alk     =   30.1
+  Ca      =   10.1
+  Hard    =   41.9
+  NH3     =   0.01
+  NTU     =   1.15
+  PeakFlow= 5.000
+  Flow    = 2.000
+  SWFlag  = TRUE
+  End
+Lime
+  Dose    = 0.0
+  Purpose = P
+  End
+Carbon Dioxide
+  Dose    = 0.0
+  End
+Alum
+  Dose    =  0.0
+  End
+Rapid Mix
+  Vol.    =  0.0070
+  T50     =   1.00
+  T10     =   0.10
+  End
+Flocculation
+  Vol.    =  0.0400
+  T50     =   1.00
+  T10     =   0.10
+  End
+Settling Basin
+  Vol.    =  0.1670
+  T50     =   1.00
+  T10     =   0.30
+  End
+Filtration
+  Vol(liq)=  0.0280
+  T50     =   1.00
+  T10     =   0.50
+  Cl2BKWSH= TRUE
+  Media   = A/S
+  End
+Sod. Hypochlor.
+  Dose    =   0.0
+  End
+Contact Tank
+  Vol.    =  1.0000
+  T50     =   1.00
+  T10     =   0.50
+  End
+Lime
+  Dose    = 0.0
+  Purpose = P
+  End
+Carbon Dioxide
+  Dose    = 0.0
+  End
+WTP Effluent
+  End
+Average Tap
+  DetTime =   1.0
+  End
+End of System
+  DetTime =   4.0
+  End
