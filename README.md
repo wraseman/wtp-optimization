@@ -6,7 +6,7 @@ Improving the resilience and affordability of existing water treatment plants is
 
 ## Reference
 
-W.J. Raseman, Kasprzyk, J.R., Summers, R.S., Hohner, A.K., Rosario-Ortiz, F.L. (in-review). *Multi-objective optimization of water treatment operations for disinfection byproduct control.*
+Raseman, William J., Joseph R. Kasprzyk, R. Scott Summers, Amanda K. Hohner, and Fernando L. Rosario-Ortiz. “Multi-Objective Optimization of Water Treatment Operations for Disinfection Byproduct Control.” Environ. Sci.: Water Res. Technol., 2020. https://doi.org/10.1039/C9EW00850K.
 
 ## Web application
 
